@@ -4,7 +4,7 @@
 - 1 - OK
 - 2 - Pendente
 - 3 - Pendente
-- 4 - Pendente
+- 4 - OK
 
 ## Teste de Programação
 - 1 - Pendente
