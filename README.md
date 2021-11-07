@@ -7,7 +7,5 @@
 - 4 - OK
 
 ## Teste de Programação
-- 1 - Pendente
-- 2 - Pendente
-- 3 - Pendente
-- 4 - Pendente
+- 1 - Lista TODO em Django OK
+- 2 - Single Page em Angular 8 Pendente
